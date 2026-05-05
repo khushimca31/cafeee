@@ -1,0 +1,57 @@
+body {
+  text-decoration: none;
+}
+
+.hero {
+  text-align: center;
+  padding: 80px;
+  background: url('https://images.unsplash.com/photo-1509042239860-f550ce710b93') no-repeat center/cover;
+  color: white;
+}
+
+.btn {
+  background: #ff9800;
+  padding: 10px 20px;
+  color: white;
+  border: none;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 40px;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  text-align: center;
+}
+
+button {
+  background: #6f4e37;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.order-section {
+  text-align: center;
+  padding: 40px;
+}
+
+.contact {
+  text-align: center;
+  padding: 40px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background: #333;
+  color: white;
+}
